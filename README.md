@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dynamic Theme Clock
 
-# Run and deploy your AI Studio app
+A sleek and modern clock application that displays both analog and digital time. It features a theme toggle to switch between a light and dark mode for optimal viewing comfort. This project is built with React, TypeScript, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1a-2TGhXxrOn_KnlKzdnLbakKQEL9GKrz
+- **Analog Clock:** A beautiful, animated analog clock face that shows the current time with hour, minute, and second hands.
+- **Digital Clock:** A clear, large-format digital display of the time, including AM/PM.
+- **Date Display:** Shows the current day of the week, month, and day.
+- **Dark/Light Mode:** A smooth theme toggle allows users to switch between a light and dark theme to suit their preference or environment.
+- **Responsive Design:** The layout is fully responsive and looks great on devices of all sizes, from mobile phones to desktop monitors.
+- **Smooth Animations:** The clock hands move smoothly, with a ticking animation for the second hand and graceful transitions for the theme changes.
 
-## Run Locally
+## How to Run
 
-**Prerequisites:**  Node.js
+This is a simple frontend application built with standard web technologies. No complex setup is required.
 
+1.  Clone or download the repository.
+2.  Open the `index.html` file in your favorite web browser.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+That's it! The clock will start running immediately.
+
+## Technologies Used
+
+- **React:** A JavaScript library for building user interfaces.
+- **TypeScript:** A typed superset of JavaScript that compiles to plain JavaScript.
+- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.

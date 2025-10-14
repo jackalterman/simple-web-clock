@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Theme Clock",
+  "description": "A sleek and modern clock application that displays both analog and digital time. It features a theme toggle to switch between a light and dark mode for optimal viewing comfort.",
+  "requestFramePermissions": []
+}
